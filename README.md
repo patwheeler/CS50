@@ -7,11 +7,11 @@ Created an animation using MIT's Scratch interface. Here's a link to the one I c
 
 ## Week 1
 Learned about the command line, conditional statements, data types, loops, and operators. 
-### Hello
+### Hello.c
 Practice using the compiler; working with stdio.h
-### Credit
+### Credit.c
 Using Luhn's Algorithm, determines the validity and type of credit card given a number. 
-### Mario
+### Mario.c
 Implemented the "more comfortable" version of Mario's pyramid of blocks. 
 
 ## Week 2
