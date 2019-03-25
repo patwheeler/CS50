@@ -1,3 +1,4 @@
+//The "more comfortable" implementaiton of the Mario problem--part of problem set 1.
 #include <cs50.h>
 #include <stdio.h>
 
