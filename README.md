@@ -13,3 +13,6 @@ Practice using the compiler; working with stdio.h
 Using Luhn's Algorithm, determines the validity and type of credit card given a number. 
 ### Mario
 Implemented the "more comfortable" version of Mario's pyramid of blocks. 
+
+## Week 2
+
