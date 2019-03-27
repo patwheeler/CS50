@@ -19,5 +19,6 @@ Introduction to algroithms
 ### Problem Set 2
 ##### [Caesar.c](https://github.com/patwheeler/CS50/blob/master/Week2/Caesar.c)
 Encrypting messages using Caesar's algroithm
-
+##### [Crack.c](https://github.com/patwheeler/CS50/blob/master/Week2/Crack.c)
+A brute-force method for finding 5-letter passwords using DES-based crypt function. The time-complexity is O(N^5), so don't expect an answer any time soon.  
 
