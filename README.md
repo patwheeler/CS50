@@ -21,4 +21,9 @@ Introduction to algroithms
 Encrypting messages using Caesar's algroithm
 ##### [Crack.c](https://github.com/patwheeler/CS50/blob/master/Week2/Crack.c)
 Given a hash value, finds up the corresponding password up to 5 letters long. This brute-force method uses the DES-based crypt function; the time-complexity is O(N^5), so don't expect an answer any time soon.  
-
+## Week 3
+Covers call stacks, dynamic memory allocation, file handling, hexidecimal system, pointers, and recursion. 
+##### [Questions.md](https://github.com/patwheeler/CS50/blob/master/Week3/questions.md)
+Answering questions for the Whodunit lab; covers bitmap images, files, and typedefs.
+##### [Whodunit.c](https://github.com/patwheeler/CS50/blob/master/Week3/Whodunit.c)
+Uncovers a secret message "hidden" in a bmp using a red-tinted filter. 
