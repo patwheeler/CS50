@@ -7,10 +7,10 @@ A header file that provides a set of typedefs which define exact-width integer t
 These are all typedefs; they help keep programs running the same across varying system architectures.
 
 ## How many bytes is a `BYTE`, a `DWORD`, a `LONG`, and a `WORD`, respectively?
-BYTE contains 1 byte (unsigned 8 bits)
-DWORD contains 4 bytes (unsigned 32 bits)
-LONG contains 4 bytes (signed 32 bits)
-WORD contains 2 bytes (unsigned 16 bits)
+BYTE contains 1 byte (unsigned 8 bits) <br /> 
+DWORD contains 4 bytes (unsigned 32 bits) <br /> 
+LONG contains 4 bytes (signed 32 bits) <br /> 
+WORD contains 2 bytes (unsigned 16 bits) <br /> 
 
 ## What (in ASCII, decimal, or hexadecimal) must the first two bytes of any BMP file be? Leading bytes used to identify file formats (with high probability) are generally called "magic numbers."
 The first two bytes of any BMP file must be 0x42 and 0x4D, or 'BM'. 
