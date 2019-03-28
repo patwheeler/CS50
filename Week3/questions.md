@@ -31,10 +31,10 @@ It's possible fopen will return 'NULL' in 'copy.c' if there was an error opening
 The third argument in 'fread' will always be 1 because that's how many elements we are reading (i.e. 1 picture).
 
 ## What value does `copy.c` assign to `padding` if `bi.biWidth` is `3`?
-int padding = (4 - (bi.biWidth * sizeof(RGBTRIPLE)) % 4) % 4;
-int padding = (4 - (3 * 3 % 4)) % 4
-int padding = (4 - 1) % 4
-int padding = 3 % 4
+int padding = (4 - (bi.biWidth * sizeof(RGBTRIPLE)) % 4) % 4;\n
+int padding = (4 - (3 * 3 % 4)) % 4\n
+int padding = (4 - 1) % 4\n
+int padding = 3 % 4\n
 int padding = 3;
 
 ## What does `fseek` do?
