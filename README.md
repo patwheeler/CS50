@@ -25,5 +25,5 @@ Given a hash value, finds up the corresponding password up to 5 letters long. Th
 Covers call stacks, dynamic memory allocation, file handling, hexidecimal system, pointers, and recursion. 
 ##### [Questions.md](https://github.com/patwheeler/CS50/blob/master/Week3/questions.md)
 Answering questions for the Whodunit lab; covers bitmap images, files, and typedefs.
-##### [Whodunit.c](https://github.com/patwheeler/CS50/blob/master/Week3/Whodunit.c)
+##### [Whodunit.c](https://github.com/patwheeler/CS50/blob/master/Week3/whodunit.c)
 Uncovers a secret message "hidden" in a bmp using a red-tinted filter. 
